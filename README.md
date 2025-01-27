@@ -31,12 +31,3 @@ Para mais informações sobre o Flutter, você pode acessar a [documentação of
 - **Validação de vitória**: O jogo verifica automaticamente se há um vencedor ou empate.
 - **Reiniciar jogo**: Opção para reiniciar a partida após o fim.
 
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Se precisar de ajuda, fique à vontade para abrir uma issue ou enviar um pull request!
